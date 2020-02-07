@@ -1,1 +1,1 @@
-NOTICE: This subsite will still be in a zip file until EpicTaco extracts it.
+NOTICE: KEEP THIS IN THE TACO_ZIP_EXTRACT BRANCH UNTIL TACO MERGES THIS REQUEST, NO ONE ELSE SHOULD.
